@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "awbrain"
+version = "0.1.0"
+description = "Your history as a wiki of linked markdown — claims pinned to the evidence."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+awbrain = "awbrain.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/Aitherium/awbrain"
+Documentation = "https://github.com/Aitherium/awbrain#readme"
+Repository = "https://github.com/Aitherium/awbrain.git"
+Issues = "https://github.com/Aitherium/awbrain/issues"
+
+[tool.setuptools]
+packages = ["awbrain"]
