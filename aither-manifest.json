@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1",
+  "name": "awbrain",
+  "description": "Your history as a wiki of linked markdown — claims pinned to the evidence.",
+  "url": "https://aitherium.github.io/awbrain/",
+  "repository": "https://github.com/Aitherium/awbrain",
+  "kind": "runtime",
+  "status": "unpublished",
+  "adopt": "Point it at a folder of notes or sessions; ask a question your context never held.",
+  "pairs_with": [
+    "awgraph",
+    "awm",
+    "awseal"
+  ],
+  "includes": [],
+  "speaks_to": null
+}
