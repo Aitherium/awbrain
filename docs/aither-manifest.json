@@ -5,7 +5,7 @@
   "url": "https://aitherium.github.io/awbrain/",
   "repository": "https://github.com/Aitherium/awbrain",
   "kind": "runtime",
-  "status": "no-pages",
+  "status": "public",
   "adopt": "Point it at a folder of notes or sessions; ask a question your context never held.",
   "pairs_with": [
     "awknowledge",
@@ -16,15 +16,5 @@
     "awnode",
     "awdk"
   ],
-  "includes": [],
-  "metrics": {
-    "files": {
-      "value": 25,
-      "as_of": "2026-11-08T07:11:35-08:00"
-    },
-    "tests": {
-      "value": 1,
-      "as_of": "2026-11-08T07:11:35-08:00"
-    }
-  }
+  "includes": []
 }
