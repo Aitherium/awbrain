@@ -27,6 +27,8 @@ Point it at a folder of notes or sessions; ask a question your context never hel
 ## Where it lives
 
 - Repo: https://github.com/Aitherium/awbrain
+- Docs: https://aitherium.github.io/awbrain/
+- Manifest (keys + the one-line adoption story): https://aitherium.github.io/awbrain/aither-manifest.json
 
 This repository is mirrored from the AitherOS monorepo by `.github/workflows/sync-awbrain.yml`; hand edits made here are overwritten on the next sync — change the source instead.
 
