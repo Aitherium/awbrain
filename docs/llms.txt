@@ -10,6 +10,10 @@ Every AI memory system sells you a black box: sessions vanish into a vendor clou
 pip install awbrain
 ```
 
+## In Claude Code
+
+- skill: `/awbrain`
+
 ## Use it in 30 seconds
 
 Point it at a folder of notes or sessions; ask a question your context never held.
